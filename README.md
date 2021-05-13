@@ -2,6 +2,11 @@
 
 ## Obstacle avoidance Bot using FreeRTOS
 
+### Team Members
+1.Aditya Pandey 8557  
+2.Joy Pillai 8561  
+3.Sylvester Rodrigues 8567  
+
 ### Hardware used
 
 1.Arduino Uno  
