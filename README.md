@@ -1,8 +1,8 @@
 # ESRTOS-project
 
-##Obstacle avoidance Bot using FreeRTOS
+## Obstacle avoidance Bot using FreeRTOS
 
-###Hardware used
+### Hardware used
 
 1.Arduino Uno  
 2.Ultrasonic Sensor HC-SR04  
@@ -12,7 +12,7 @@
 6.Transistor battery (9 volts)  
 7.Barrel jack male connector  
 
-###Software used
+### Software used
 
 1.Arduino IDE
 2.FreeRTOS
