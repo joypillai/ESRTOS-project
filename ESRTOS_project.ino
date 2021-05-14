@@ -14,6 +14,8 @@ void forward();
 void right();
 void left();
 void backward();
+void changedirection();
+void forwardslow();
 
 void task1(void *param);
 void task2(void *param);
